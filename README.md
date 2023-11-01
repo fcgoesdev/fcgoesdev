@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="discordapp.com/users/coroadod2" target="_blank">
+  <a href="https://discordapp.com/users/coroadod2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/fábio-góes-70575a3b/" target="_blank">
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Sou o Fábio do Brasil e me apaixonei por computadores aos 15 anos, hoje tenho 46...<br>I'm Fábio, from Brazil and I fell in love with computer when I was 15 years old, now I'm 46...<br><br>- 🔭 Estou trabalhando em minhas habilidades de programação, mais especificamente Python.<br>- 🔭 I’m working on my programming skills, more specificaly Python.<br>- 📚 Atualmente estou estudando Python, SQL, Git & Github, Javascript e mais algumas coisas.<br>- 📚 I'm currently learning Python, SQL, Git & Github, Javascript and some more stuff related.<br>- ⚡ No meu tempo livre fico com minha família e brinco com meus filhos.<br>- ⚡ In my free time I stay with my family and play with my kids.</p>
+<p align="left">Sou o Fábio do Brasil e me apaixonei por computadores aos 15 anos, hoje tenho 46...<br>I'm Fábio, from Brazil and I fell in love with computers when I was 15 years old, now I'm 46...<br><br>- 🔭 Estou trabalhando em minhas habilidades de programação, mais especificamente Python.<br>- 🔭 I’m working on my programming skills, more specificaly Python.<br>- 📚 Atualmente estou estudando Python, SQL, Git & Github, Javascript e mais algumas coisas.<br>- 📚 I'm currently learning Python, SQL, Git & Github, Javascript and some more stuff related.<br>- ⚡ No meu tempo livre fico com minha família e brinco com meus filhos.<br>- ⚡ In my free time I stay with my family and play with my kids.</p>
 
 ###
 
